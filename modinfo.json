@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "backrooms",
+    "name": "The Backrooms",
+    "authors": [ "TGW" ],
+    "description": "A strange place between dimensions traps you. Can you survive among endless halls of yellowed carpet and harshly humming fluorescents? Replaces all normal worldgen. MUST start with the 'Backrooms' scenario. Recommended city size is 0.",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "0.1",
+    "obsolete": false
+  }
+]

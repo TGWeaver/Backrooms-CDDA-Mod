@@ -1,0 +1,311 @@
+[
+  {
+    "id": "backrooms_master_fridge",
+    "type": "item_group",
+    "//": "Any generic breakroom/kitchen fridge.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "SUS_fridge", "prob": 100 },
+      { "group": "monparts", "count": [ 1, 4 ], "prob": 2 },
+      { "group": "SUS_pantry", "prob": 25 },
+      { "group": "SUS_breakfast_cupboard", "prob": 20 },
+      { "group": "baked_goods", "count": [ 1, 3 ], "prob": 10 },
+      { "group": "groce_condiment", "count": [ 1, 3 ], "prob": 50 }
+    ]
+  },
+  {
+    "id": "backrooms_master_cupboards",
+    "type": "item_group",
+    "//": "Any generic breakroom/kitchen cupboards, from non-fridge foods to junk drawers.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "backrooms_kitchen_drawers", "prob": 100 },
+      { "group": "SUS_appliances_cupboard", "prob": 50 },
+      { "collection": 
+	    [ 
+	      { "group": "SUS_breakfast_cupboard" },
+		  { "group": "SUS_coffee_cupboard", "prob": 80 }
+	    ], "prob": 50 },
+      { "group": "SUS_cookware", "prob": 50 },
+      { "group": "SUS_pantry", "prob": 50 },
+      { "group": "dry_goods", "count": [ 1, 3 ], "prob": 50 },
+      { "group": "preserved_food", "count": [ 1, 4 ], "prob": 50 }
+    ]
+  },
+  {
+    "id": "backrooms_master_countertop_kitchen",
+    "type": "item_group",
+    "//": "Any generic breakroom/kitchen countertop, for food and appliances.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "kitchen_counters", "prob": 50 },
+      { "group": "SUS_junk_drawer", "prob": 15 },
+      { "group": "SUS_pantry", "prob": 15 },
+      { "group": "groce_condiment", "count": [ 2, 3 ], "prob": 25 },
+      { "group": "SUS_spice_collection", "prob": 25 },
+      { "group": "SUS_coffee_cupboard", "prob": 25 },
+      { "group": "SUS_breakfast_cupboard", "prob": 10 },
+      { "group": "preserved_food", "count": [ 1, 2 ], "prob": 10 }
+    ]
+  },
+  {
+    "id": "backrooms_master_sink1",
+    "type": "item_group",
+    "//": "Any generic kitchen sink, for chems and supplies.",
+    "subtype": "collection",
+    "entries": [
+      { "group": "SUS_kitchen_sink", "prob": 100 },
+      { "group": "SUS_dishes", "prob": 50 },
+      { "group": "SUS_silverware", "prob": 75 }
+    ]
+  },
+  {
+    "id": "backrooms_master_countertops_bathroom",
+    "type": "item_group",
+    "//": "Any generic bathroom countertop, for chems and possibly drugs.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "SUS_hair_drawer", "prob": 50 },
+      { "group": "SUS_bathroom_cabinet", "prob": 100 },
+      { "group": "softdrugs", "count": [ 1, 2 ], "prob": 25 },
+      { "group": "harddrugs", "prob": 10 },
+      { "group": "SUS_toilet", "prob": 35 }
+    ]
+  },
+  {
+    "id": "backrooms_master_sink2",
+    "type": "item_group",
+    "//": "Any generic bathroom sink, for chems and possibly drugs.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "SUS_bathroom_sink", "prob": 100 },
+      { "group": "SUS_bathroom_medicine", "prob": 75 },
+      { "group": "softdrugs", "count": [ 1, 2 ], "prob": 50 },
+      { "group": "harddrugs", "prob": 5 }
+    ]
+  },
+  {
+    "id": "backrooms_master_table_kitchen",
+    "type": "item_group",
+    "//": "Any generic kitchen table, mostly food and dishwear.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "dishes_dining", "count": [ 1, 3 ], "prob": 50 },
+      { "group": "tea_dishes", "count": [ 1, 3 ], "prob": 50 },
+      { "group": "baked_goods", "prob": 25 },
+      { "group": "groce_condiment", "count": [ 1, 2 ], "prob": 25 },
+      { "group": "dining", "count": [ 1, 2 ], "prob": 35 }
+    ]
+  },
+  {
+    "id": "backrooms_master_table_coffee",
+    "type": "item_group",
+    "//": "Any generic breakroom coffee table, for magazines, personal items, recreation, electronics.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "consumer_electronics", "prob": 25 },
+      { "group": "table_livingroom", "count": [ 1, 2 ], "prob": 100 },
+      { "group": "toy_box", "prob": 50 },
+      { "group": "a_television", "prob": 25 }
+    ]
+  },
+  {
+    "id": "backrooms_master_table_breakroom",
+    "type": "item_group",
+    "//": "Any generic breakroom table, for reading material, dishwear, food, personal items, and recreation.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "table_card", "count": [ 1, 3 ], "prob": 100 },
+      { "group": "table_livingroom", "count": [ 1, 3 ], "prob": 100 },
+      { "group": "ic_merch", "prob": 35 },
+      { "group": "magazines", "count": [ 1, 2 ], "prob": 125 },
+      { "group": "waitingroom", "count": [ 1, 2 ], "prob": 50 },
+      { "group": "toy_box", "prob": 100 },
+      { "group": "consumer_electronics", "prob": 40 },
+      { "group": "homebooks", "prob": 25 },
+      { "group": "book_mag_gen", "count": [ 1, 2 ], "prob": 50 },
+      { "group": "newspaper", "count": [ 1, 2 ], "prob": 50 }
+    ]
+  },
+  {
+    "id": "backrooms_master_table_office",
+    "type": "item_group",
+    "//": "Any generic office table, mostly for files and supplies.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "cubical_office", "count": [ 1, 6 ], "prob": 100 },
+      { "group": "office", "count": [ 1, 5 ], "prob": 100 },
+      { "group": "office_mess", "count": [ 1, 6 ], "prob": 35 },
+      { "group": "office_paper", "prob": 50 },
+      { "group": "office_supplies", "count": [ 2, 6 ], "prob": 50 }
+    ]
+  },
+  {
+    "id": "backrooms_master_desk",
+    "type": "item_group",
+    "//": "Any generic office desk, for personal effects and office supplies.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "cubical_office", "count": [ 1, 6 ], "prob": 50 },
+      { "group": "SUS_office_desk", "prob": 50 },
+      { "group": "bedroom", "count": [ 1, 3 ], "prob": 5 },
+      { "group": "office_mess", "count": [ 1, 6 ], "prob": 25 },
+      { "group": "office_supplies", "count": [ 2, 6 ], "prob": 50 },
+      { "group": "npc_hacker", "prob": 10 },
+      { "group": "school", "count": [ 1, 4 ], "prob": 20 }
+    ]
+  },
+  {
+    "id": "backrooms_master_trash",
+    "type": "item_group",
+    "//": "Any generic trashcan. For trash.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "trash", "count": [ 1, 5 ], "prob": 100 },
+      { "group": "trash_forest", "count": [ 1, 4 ], "prob": 10 }
+    ]
+  },
+  {
+    "id": "backrooms_master_filing",
+    "type": "item_group",
+    "//": "Any generic filing cabinet, mostly for papers and files.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "SUS_office_filing_cabinet", "prob": 100 },
+      { "group": "office_paper", "prob": 50 },
+      { "group": "file_room", "count": [ 2, 10 ], "prob": 25 },
+      { "group": "office_mess", "count": [ 2, 8 ], "prob": 10 },
+      { "group": "office_supplies", "count": [ 1, 2 ], "prob": 10 },
+      { "group": "stash_drugs", "count": [ 1, 3 ], "prob": 5 }
+    ]
+  },
+  {
+    "id": "backrooms_master_coat_rack",
+    "type": "item_group",
+    "//": "Any generic coat rack, for coats and hats.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "unisex_coat_rack", "prob": 100 }
+    ]
+  },
+  {
+    "id": "backrooms_master_rubble",
+    "type": "item_group",
+    "//": "Any generic pile of debris, mostly for hidden plant matter.",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "forage_broad", "count": [ 1, 2 ], "prob": 100 },
+      { "group": "trash_junkyard", "count": [ 1, 3 ], "prob": 50 },
+      { "group": "wreckage", "count": [ 1, 3 ], "prob": 25 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_vending",
+    "//": "Any generic vending machine, for food, drinks, or rarely other things.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "vending_drink", "prob": 70 }, 
+	  { "group": "vending_food", "prob": 50 }, 
+	  { "group": "vending_ammo", "prob": 5 }, 
+	  { "group": "vending_bionics", "prob": 2 }, 
+	  { "group": "vending_mutagens", "prob": 2 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_cardboard",
+    "//": "Any generic cardboard box, holding mostly personal supplies, food, and meds.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_supplies", "count": [ 1, 6 ], "prob": 50 },
+	  { "group": "backrooms_master_trash", "prob": 8 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_crate",
+    "//": "Any generic crate, holding a broad variety of bulkier items.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_crate", "count": [ 1, 6 ], "prob": 100 },
+	  { "group": "backrooms_crate_rare", "count": [ 1, 2 ], "prob": 5 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_locker",
+    "//": "Any generic locker, holding equipment, weapons, or gear.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_weaponslocker", "count": [ 1, 3 ], "prob": 50 }, 
+	  { "group": "backrooms_weaponslocker_rare", "count": [ 1, 2 ], "prob": 3 }, 
+	  { "group": "backrooms_equipmentlocker", "count": [ 1, 3 ], "prob": 100 }, 
+	  { "group": "backrooms_equipmentlocker_rare", "count": [ 1, 2 ], "prob": 5 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_locker_rare",
+    "//": "Any generic locker, holding equipment, weapons, or gear.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_weaponslocker_rare", "count": [ 1, 2 ], "prob": 100 }, 
+	  { "group": "backrooms_equipmentlocker_rare", "count": [ 1, 2 ], "prob": 120 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_safe",
+    "//": "Any generic safe, holding rare goodies.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_treasure", "count": [ 1, 2 ], "prob": 100 }, 
+	  { "group": "backrooms_treasure_rare", "count": [ 1, 2 ], "prob": 5 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_shelf1",
+    "//": "Any generic utility shelf, holding primarily tools or chems.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_shelf_chems", "count": [ 1, 4 ], "prob": 40 }, 
+	  { "group": "backrooms_tools", "count": [ 1, 3 ], "prob": 40 }, 
+	  { "group": "backrooms_shelf_tools", "count": [ 1, 3 ], "prob": 30 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_shelf2",
+    "//": "Any generic warehouse shelf, holding bulk materials or absolutely random crap.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_shelf_supplies", "count": [ 1, 4 ], "prob": 50 }, 
+	  { "group": "backrooms_shelf_misc", "count": [ 1, 6 ], "prob": 20 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_workbench",
+    "//": "Any generic warehouse shelf, holding bulk materials or absolutely random crap.",
+    "subtype": "collection",
+    "entries": [ 
+	  { "group": "backrooms_tools", "count": [ 1, 2 ], "prob": 100 }, 
+	  { "group": "backrooms_shelf_supplies", "count": [ 1, 2 ], "prob": 50 }
+	]
+  },
+  {
+    "type": "item_group",
+    "id": "backrooms_master_bookshelf",
+    "//": "Any bookshelf, preferring common books but rarely featuring more military or experimental fare.",
+    "subtype": "distribution",
+    "entries": [ 
+	  { "group": "backrooms_books_common", "count": [ 2, 6 ], "prob": 100 }, 
+	  { "group": "backrooms_books_fluff", "count": [ 2, 6 ], "prob": 100 }, 
+	  { "group": "backrooms_books_military", "count": [ 2, 6 ], "prob": 5 }, 
+	  { "group": "backrooms_books_experimental", "count": [ 2, 6 ], "prob": 5 }, 
+	  { "group": "backrooms_books_combat", "count": [ 2, 6 ], "prob": 5 }
+	]
+  }
+]

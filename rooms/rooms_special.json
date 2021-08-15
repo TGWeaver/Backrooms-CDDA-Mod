@@ -1,0 +1,75 @@
+[
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_big_special",
+    "object": {
+      "mapgensize": [ 11, 11 ],
+      "rows": [
+        "-----------",
+        "-         -",
+        "-         -",
+        "-         -",
+        "-         -",
+        "-         -",
+        "-         -",
+        "-         -",
+        "-         -",
+        "-         -",
+        "-----------"
+      ],
+      "palettes": [ "backrooms_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_big_special",
+    "object": {
+      "mapgensize": [ 8, 8 ],
+      "rows": [
+        "--------",
+        "-      -",
+        "-      -",
+        "-      -",
+        "-      -",
+        "-      -",
+        "-      -",
+        "--------"
+      ],
+      "palettes": [ "backrooms_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_small_special",
+    "object": {
+      "mapgensize": [ 4, 4 ],
+      "rows": [
+        "----",
+        "-  -",
+        "-  -",
+        "----"
+      ],
+      "palettes": [ "backrooms_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_small_special",
+    "object": {
+      "mapgensize": [ 6, 6 ],
+      "rows": [
+        "------",
+        "-    -",
+        "-    -",
+        "-    -",
+        "-    -",
+        "------"
+      ],
+      "palettes": [ "backrooms_palette" ]
+    }
+  }
+]

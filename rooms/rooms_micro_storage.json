@@ -1,0 +1,1080 @@
+[
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "A ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "A ",
+        " A"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AA",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AA",
+        "AA"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Al",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Ac",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Aa",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "An",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Am",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Ax",
+        "x "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AB",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AB",
+        "BA"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Ar",
+        "s "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "As",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Aj",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AE",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AF",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AI",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AN",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "B ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "BB",
+        "BB"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "BB",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "BE",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "BF",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "B ",
+        " B"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "II",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "I ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Ig",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Ig",
+        " g"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "KI",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "N ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "N ",
+        " x"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "BI",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "EE",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "E ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "FF",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "F ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "EF",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "FF",
+        "F "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "EE",
+        "E "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "EN",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "FN",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Gx",
+        "xx"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "G ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Fm",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Fn",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "IG",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "cc",
+        "cA"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Ak",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "tA",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "yA",
+        " y"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "yE",
+        "yy"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "NP",
+        "Q "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "QP",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "KL",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "LP",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "LP",
+        "QN"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "NN",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "NN",
+        "NP"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "PP",
+        "PQ"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "L ",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "LA",
+        "A "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AC",
+        "EE"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AC",
+        "FF"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AA",
+        "FF"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "AA",
+        "EE"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "A ",
+        " N"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Af",
+        " a"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "Aa",
+        "nf"
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "hh",
+        "A "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "kA",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "kE",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "kF",
+        "  "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "kA",
+        "A "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "kA",
+        "j "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "kA",
+        "n "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "mx_backroom_micro_storage",
+    "object": {
+      "mapgensize": [ 2, 2 ],
+      "rotation": [ 0, 3 ],
+      "rows": [
+        "kA",
+        "m "
+      ],
+      "palettes": [ "backrooms_palette", "backrooms_storage_palette" ]
+    }
+  }
+]
