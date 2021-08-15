@@ -58,13 +58,13 @@
 		  "y": [ 0, 0 ]
 		},
 		{ 
-		  "chunks": [ [ "null", 200 ], [ "mx_backroom_big_empty", 50 ], [ "mx_backroom_big_generic", 25 ], [ "mx_backroom_big_common", 50 ], [ "mx_backroom_big_storage", 25 ], [ "mx_backroom_big_breakroom", 25 ], [ "mx_backroom_big_bathroom", 20 ] ], 
+		  "chunks": [ [ "null", 200 ], [ "mx_backroom_big_empty", 50 ], [ "mx_backroom_big_generic", 50 ], [ "mx_backroom_big_common", 100 ], [ "mx_backroom_big_storage", 25 ], [ "mx_backroom_big_breakroom", 25 ], [ "mx_backroom_big_bathroom", 20 ] ], 
 		  "x": [ 0, 13 ], 
 		  "y": [ 0, 13 ],
           "repeat": [ 0, 2 ]
 		},
         {
-          "chunks": [ [ "null", 200 ], [ "mx_backroom_small_empty", 50 ], [ "mx_backroom_small_generic", 25 ], [ "mx_backroom_small_common", 50 ], [ "mx_backroom_small_storage", 25 ], [ "mx_backroom_small_breakroom", 25 ], [ "mx_backroom_small_bathroom", 20 ] ],
+          "chunks": [ [ "null", 200 ], [ "mx_backroom_small_empty", 50 ], [ "mx_backroom_small_generic", 50 ], [ "mx_backroom_small_common", 100 ], [ "mx_backroom_small_storage", 25 ], [ "mx_backroom_small_breakroom", 25 ], [ "mx_backroom_small_bathroom", 20 ] ],
           "x": [ 0, 18 ],
           "y": [ 0, 18 ],
           "repeat": [ 0, 3 ]
